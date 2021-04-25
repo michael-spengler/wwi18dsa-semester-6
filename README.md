@@ -20,6 +20,10 @@ Entwickle eine Webharvesting Lösung zur Datenbeschaffung für eine Event Overvi
 4. Zum Technologischen Schwerpunkt 4:   
 Entwickle Chat Bot Integrationen für o.g. Gambling Bots, Fancy Flashcards und für die Event Overview Wenbanwendung   
 
+## Recommended Videos
+[Deep Learning](https://www.youtube.com/watch?v=5tvmMX8r_OM&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+
+
 ## Telegram
 https://t.me/joinchat/Fm4AurtLakERzoT5
 
