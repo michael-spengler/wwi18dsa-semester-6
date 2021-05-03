@@ -7,7 +7,8 @@
 1. Machine Learning im Kontext von [Decentralized Finance](https://www.npmjs.com/package/decentralized-finance-defi). 
 2. Natural Language Processing im Kontext von [Fancy Flashcards](https://github.com/fancy-flashcard/ffc/blob/master/README.md)
 3. Web Harvesting using testing frameworks like [CodeceptJS](https://codecept.io/)
-4. Chat Bot Integrationen im Kontext von Telegram, Slack, Discord, Reddit, Twitter
+4. Chat Bot Integrationen im Kontext von Telegram, Slack, Discord, Reddit, Twitter  
+5. Truth Finder System leveraging Blockchain based incentive systems (staking) and NLP for the corresponding optional automation
 
 ## Projektvorschläge
 1. Zum o.g. Technologischen Schwerpunkt 1:  
