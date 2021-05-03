@@ -19,6 +19,8 @@ Entwickle ein Quiz Bot auf Basis von [Fancy Flashcards](https://github.com/fancy
 Entwickle eine Webharvesting Lösung zur Datenbeschaffung für eine Event Overview Wenbanwendung - Beispiel folgt in der ersten Vorlesung.  
 4. Zum Technologischen Schwerpunkt 4:   
 Entwickle Chat Bot Integrationen für o.g. Gambling Bots, Fancy Flashcards und für die Event Overview Wenbanwendung   
+5. Zum Technologischen Schwerpunkt 5:  
+Entwickle einen Smart Contract für die Binance Smart Chain, welcher es erlaubt auf posts zu staken. Wenn die Mehrheit der Community innerhalb eines bestimmten Zeitraumes zur Einschätzung kommt, dass der Post wahr ist erhalten all jene eine Belohnung, die darauf gesetzt haben. Der Pot ergibt sich aus den jeweils konträren Stakes. 
 
 ## Recommended Videos
 [Deep Learning](https://www.youtube.com/watch?v=5tvmMX8r_OM&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
