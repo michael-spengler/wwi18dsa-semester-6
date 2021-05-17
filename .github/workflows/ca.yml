@@ -6,7 +6,7 @@ on:
     types: [opened,closed,synchronize]
 
 jobs:
-  CLAssistant:
+  ContributorAssistant:
     runs-on: ubuntu-latest
     steps:
       - name: "Contributor Assistant"
