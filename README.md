@@ -24,7 +24,7 @@ Entwickle Chat Bot Integrationen für o.g. Gambling Bots, Fancy Flashcards und f
 5. Zum Technologischen Schwerpunkt 5:  
 Entwickle einen Smart Contract für die Binance Smart Chain, welcher es erlaubt auf posts zu staken. Wenn die Mehrheit der Community innerhalb eines bestimmten Zeitraumes zur Einschätzung kommt, dass der Post wahr ist erhalten all jene eine Belohnung, die darauf gesetzt haben. Der Pot ergibt sich aus den jeweils konträren Stakes.  
 6. Zum Technologischen Schwerpunkt 6:  
-Improve the whole developer experience / contributor experience - e.g. by enhancing the CA features adding e.g. Chat Client integrations, reward mechanisms (automatically), simplifications (CA config file).  
+Improve the whole developer experience / contributor experience - e.g. by enhancing the CA features adding e.g. Chat Client integrations, reward mechanisms (automatically), simplifications (CA config file), leveraging [Deno CICD](https://deno.land/x/cicd@v0.8.4/.github/workflows)...
 
 ## Recommended Videos
 [Deep Learning](https://www.youtube.com/watch?v=5tvmMX8r_OM&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
