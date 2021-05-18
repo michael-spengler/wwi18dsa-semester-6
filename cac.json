@@ -1,0 +1,12 @@
+{
+  walletaddress: "",
+  balance: 98,
+  rewardRecipients: [
+      {
+        ghUser: "ibakshay",
+        walletAddress: "",
+        rewardedWith: 2,
+        timestamp: "..."
+      }
+    ]
+}
