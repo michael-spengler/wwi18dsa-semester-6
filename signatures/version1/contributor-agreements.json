@@ -1,3 +1,20 @@
 {
-   "signedContributors": []
+  "signedContributors": [
+    {
+      "name": "michael-spengler",
+      "id": 43786652,
+      "comment_id": 844414178,
+      "created_at": "2021-05-19T19:42:51Z",
+      "repoId": 337713429,
+      "pullRequestNo": 6
+    },
+    {
+      "name": "michael-spengler",
+      "id": 43786652,
+      "comment_id": 844415008,
+      "created_at": "2021-05-19T19:43:58Z",
+      "repoId": 337713429,
+      "pullRequestNo": 6
+    }
+  ]
 }
